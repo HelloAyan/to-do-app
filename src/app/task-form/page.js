@@ -25,6 +25,9 @@ const TaskForm = ({ existingTask, onSave }) => {
         if (!title.trim()) {
             setError('Title is required');
             return;
+        } else if (!description.trim()) {
+            setError('Description is required');
+            return;
         }
 
         if (existingTask) {
