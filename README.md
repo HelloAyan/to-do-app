@@ -1,4 +1,4 @@
-# Project Name
+# To-do-app for Caretutors
 
 Brief description of the project.
 
@@ -9,6 +9,9 @@ Brief description of the project.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Technologies Used
+HTML, Tailwind CSS, Redux, Next.js, localStorage
 
 ## Installation
 
