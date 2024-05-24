@@ -1,14 +1,11 @@
 # To-do-app for Caretutors
 
-Brief description of the project.
+This project has been developed for Caretutors Assignment. It's a simple "to-do-app" web application.
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
 
 ## Technologies Used
 HTML, Tailwind CSS, Redux, Next.js, localStorage
@@ -18,4 +15,20 @@ HTML, Tailwind CSS, Redux, Next.js, localStorage
 To clone this project from GitHub, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/your_username/project_name.git
+git clone https://github.com/HelloAyan/to-do-app.git
+
+```
+
+To install the necessary dependencies, use the following command in your terminal:
+
+```bash
+npm install
+
+```
+To start the development server, use the following command in your terminal:
+
+```bash
+npm run dev
+
+```
+
